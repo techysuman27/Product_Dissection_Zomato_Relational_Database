@@ -1,20 +1,26 @@
 🍽️ Zomato Product Dissection
+
 📌 Overview
+
 This project provides a comprehensive analysis of Zomato, a leading food technology platform. It explores Zomato’s business model, real-world problems it solves, key features, impact on the food delivery industry, and a relational database schema.
 
 🏢 Company Background
+
 Founded: 2008
 Founders: Deepinder Goyal & Pankaj Chaddah
 Headquarters: India
 Presence: Operates in 10,000+ cities across 24 countries
 Services: Online food ordering, restaurant discovery, table reservations, and delivery logistics
+
 🚀 Real-World Problems & Solutions
+
 Problem	Solution
 Time Constraints & Limited Access to Food	Quick food delivery with real-time tracking
 Decision Fatigue in Food Discovery	Personalized recommendations & user reviews
 Lack of Transparency in Food Delivery	Hygiene ratings, order tracking, and vetting processes
 Limited Restaurant Visibility	Marketing tools & online listings
 Complex User Interfaces	Intuitive UI with saved preferences & order history
+
 🛠️ Key Features
 ✅ Restaurant Discovery – Filter by location, cuisine, ratings
 ✅ User Reviews & Ratings – Make informed choices
@@ -42,6 +48,7 @@ Deliveries: Tracks order deliveries & executive details
 Payments: Manages transactions and payment methods
 Items: Stores menu items linked to orders
 Zomato Money: Digital wallet for seamless payments
+
 🔗 Entity-Relationship Diagram
 (Refer to the project documentation for the ER diagram)
 
